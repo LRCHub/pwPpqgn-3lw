@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "トレモロ",
+  "base_artist": "米津玄師",
+  "createdAt": "2025-12-21T17:39:16.638436Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "トレモロ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_トレモロ_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "トレモロ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_トレモロ_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "トレモロ",
+      "artist": "マヤ(CV:MAKO)",
+      "has_synced": false,
+      "path": "select/03_トレモロ_マヤ(CV_MAKO).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "トレモロ",
+      "artist": "マヤ (MAKO)",
+      "has_synced": false,
+      "path": "select/04_トレモロ_マヤ_(MAKO).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "トレモロ",
+      "artist": "Clammbon",
+      "has_synced": false,
+      "path": "select/05_トレモロ_Clammbon.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "トレモロ",
+      "artist": "ねごと",
+      "has_synced": true,
+      "path": "select/06_トレモロ_ねごと.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "トレモロ (Ver.2.0)",
+      "artist": "Plastic Tree",
+      "has_synced": true,
+      "path": "select/07_トレモロ_(Ver.2.0)_Plastic_Tree.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "トレモロ (Ver.2.0)",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/08_トレモロ_(Ver.2.0)_Plastic_Tree.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "トレモロ(Ver.2.0) - \"Premium Best\" Remaster",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/09_トレモロ(Ver.2.0)_-__Premium_Best__Remaster_Plastic_Tree.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tremolo (トレモロ)",
+      "artist": "ねごと",
+      "has_synced": true,
+      "path": "select/10_Tremolo_(トレモロ)_ねごと.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "トレモロ",
+      "artist": "ねごと",
+      "has_synced": false,
+      "path": "select/11_トレモロ_ねごと.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "トレモロ",
+      "artist": "negoto",
+      "has_synced": true,
+      "path": "select/12_トレモロ_negoto.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "トレモロ（Ver.2.0）",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/13_トレモロ(Ver.2.0)_Plastic_Tree.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トレモロ",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_トレモロ_米津玄師.txt"
+    }
+  ]
+}
